@@ -3,10 +3,12 @@ body{
     color: yellow;
     margin-right: 20%;
     margin-left: 20%;
+   
 }
 h1{
     font-size: 50px;
     font-style: oblique;
+    
 }
 h2{
     text-align: center;
@@ -16,5 +18,20 @@ h2{
 p{
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;;
+}
+div{
+    text-align: center;
+}
+
+a{
+    color: orangered;
+}
+.centar{
+    text-align: center;
+}
+.lead{
+    font-style: italic;
+    font-weight:bold ;
+    color: gray;
 }
 
