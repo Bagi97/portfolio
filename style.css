@@ -9,6 +9,7 @@ h1{
     font-size: 50px;
     font-style: oblique;
     font-family: 'Shadows Into Light', cursive;
+    
 }
 h2{
     text-align: center;
@@ -25,6 +26,19 @@ div{
 
 a{
     color: orangered;
+
+
+}
+nav a{
+    margin-right: 10px;
+    text-decoration: none;
+border: 2px solid rgb(139, 58, 58);
+background: black;
+padding: 2px 8px;
+
+}
+nav ul {
+    padding: 0;
 }
 .centar{
     text-align: center;
