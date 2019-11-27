@@ -40,6 +40,17 @@ padding: 2px 8px;
 nav ul {
     padding: 0;
 }
+textarea{
+    width: 400px;
+    height: 100px;
+}
+.dugmeok{
+    margin-left: 40px;
+    background: green;
+    color: brown;
+    font-weight: bold;;
+}
+}
 .centar{
     text-align: center;
 }
